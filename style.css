@@ -28,7 +28,6 @@ h1{
     margin-bottom: 30px;
 }
 .links nav ul{
-    position: relative;
     display: flex;
     list-style-type: none;
     justify-content: space-between;
