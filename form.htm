@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h2 class="animate__animated animate__bounceInDown">RVR & JC College of Engineering Cultural Fest Registration Form</h2>
-        <form action="form.htm" method="POST" class="animate__animated animate__fadeIn">
+        <form action="cultural.htm" method="POST" class="animate__animated animate__fadeIn">
             <div class="form-group">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required>
@@ -49,9 +49,14 @@
                 <!-- Add more technical event options -->
             </div>
             <div class="form-group">
-                <button type="submit" class="animate__animated animate__fadeInUp" onclick="token.htm">Register</button>
+                <button type="submit" class="animate__animated animate__fadeInUp" onclick="myfunction()">Register</button>
             </div>
         </form>
     </div>
 </body>
+<script defer>
+function myfunction(){
+alert("Registered Successfully");
+}
+</script>
 </html>
