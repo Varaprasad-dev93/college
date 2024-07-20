@@ -132,7 +132,8 @@ h1{
 #contact{
     background-color: rgba(160, 157, 157,0.5);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items:center;
 }
 footer p{
     background-color: none;
