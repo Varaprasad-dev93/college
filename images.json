@@ -1,0 +1,103 @@
+[
+    {
+        "name":"Previous-Events",
+        "imgs":{
+            "img1":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo1o"
+            },
+            "img2":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo2o"
+            },
+            "img3":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo3o"
+            },
+            "img4":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo5o"
+            },
+            "img5":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo6o"
+            },
+            "img6":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo5o"
+            },
+            "img7":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo6o"
+            }
+        }
+    },
+    {
+        "name":"Ongoing-Events",
+        "imgs":{
+            "img1":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hel7oo"
+            },
+            "img2":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hel8oo"
+            },
+            "img3":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.heloo9"
+            },
+            "img4":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.loo10o"
+            },
+            "img5":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.loo11o"
+            }
+        }
+    },
+    {
+        "name":"Upcoming-Events",
+        "imgs":{
+            "img1":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            },
+            "img2":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            },
+            "img3":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            },
+            "img4":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            },
+            "img5":
+            {
+                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
+                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hoo111o"
+            }
+        }
+
+    }
+]
