@@ -1,103 +1,85 @@
 [
     {
-        "name":"Previous-Events",
-        "imgs":{
-            "img1":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo1o"
+        "name": "Previous-Events",
+        "imgs": {
+            "img1": {
+                "src": "1.jpeg",
+                "details": "Event 1: Traditional dance performance during the annual cultural fest in 2019 at RVR and JC College of Engineering. <br> The event celebrated the diverse cultural heritage of India, featuring various traditional dances."
             },
-            "img2":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo2o"
+            "img2": {
+                "src": "2.jpeg",
+                "details": "Event 2: A vibrant musical concert in 2020 organized by the Music Club of RVR and JC College of Engineering. <br> The concert aimed to promote the musical talents of the students, featuring a mix of classical and contemporary music."
             },
-            "img3":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo3o"
+            "img3": {
+                "src": "3.jpeg",
+                "details": "Event 3: A cultural showcase in 2018 at RVR and JC College of Engineering with traditional dances from different states of India. <br> This event highlighted the cultural diversity and fostered unity among the students."
             },
-            "img4":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo5o"
+            "img4": {
+                "src": "3.jpeg",
+                "details": "Event 4: A grand dance performance during the college's annual day celebration in 2021. <br> The event featured various dance forms performed by the college's dance troupe."
             },
-            "img5":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo6o"
+            "img5": {
+                "src": "4.jpeg",
+                "details": "Event 5: A singing competition held in 2017 by the Cultural Committee of RVR and JC College of Engineering. <br> The competition aimed to encourage and showcase the vocal talents of the students."
             },
-            "img6":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo5o"
+            "img6": {
+                "src": "5.jpeg",
+                "details": "Event 6: A traditional drum dance performance during the 2020 cultural fest. <br> The event showcased the rhythmic beauty of traditional drum dances, performed by student groups."
             },
-            "img7":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helo6o"
+            "img7": {
+                "src": "3.jpeg",
+                "details": "Event 7: A cultural evening in 2021 featuring a fusion of traditional and contemporary dance forms. <br> The event aimed to bridge the gap between different cultural traditions through dance."
             }
         }
     },
     {
-        "name":"Ongoing-Events",
-        "imgs":{
-            "img1":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hel7oo"
+        "name": "Ongoing-Events",
+        "imgs": {
+            "img1": {
+                "src": "8.jpeg",
+                "details": "Event 1: Ongoing dance workshops in 2023 at RVR and JC College of Engineering focusing on traditional Indian dance forms. <br> The workshops are aimed at teaching students the intricacies of these art forms."
             },
-            "img2":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hel8oo"
+            "img2": {
+                "src": "11.jpeg",
+                "details": "Event 2: A series of musical events in 2024 promoting both traditional and contemporary music organized by the college's Music Club. <br> These events feature performances by students and guest artists."
             },
-            "img3":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.heloo9"
+            "img3": {
+                "src": "28.jpeg",
+                "details": "Event 3: Live performances and cultural programs organized to support peace and harmony within the campus. <br> These events aim to bring students together through music and dance."
             },
-            "img4":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.loo10o"
+            "img4": {
+                "src": "cm1.jpeg",
+                "details": "Event 4: A recent performance by the college's dance troupe in 2024. <br> The event showcased the troupe's work in preserving and promoting various dance forms."
             },
-            "img5":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.loo11o"
+            "img5": {
+                "src": "cm2.jpeg",
+                "details": "Event 5: An ongoing cultural series in 2024 featuring traditional music and dance performances. <br> These events aim to celebrate India's cultural heritage and foster a sense of community among students."
             }
         }
     },
     {
-        "name":"Upcoming-Events",
-        "imgs":{
-            "img1":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+        "name": "Upcoming-Events",
+        "imgs": {
+            "img1": {
+                "src": "col.jpeg",
+                "details": "Event 1: An upcoming dance festival in August 2024 at RVR and JC College of Engineering featuring performances from various student dance groups. <br> The festival aims to showcase the diversity and richness of Indian dance."
             },
-            "img2":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            "img2": {
+                "src": "1.jpeg",
+                "details": "Event 2: A planned musical extravaganza in September 2024 with performances by local and national artists. <br> The event will highlight the fusion of traditional and modern music styles."
             },
-            "img3":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            "img3": {
+                "src": "2.jpeg",
+                "details": "Event 3: An upcoming seminar in October 2024 on the preservation of traditional Indian music and dance. <br> The seminar will feature discussions and performances by experts and artists."
             },
-            "img4":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.helooo"
+            "img4": {
+                "src": "3.jpeg",
+                "details": "Event 4: The annual cultural festival in November 2024 at RVR and JC College of Engineering. <br> This event will feature a variety of cultural performances including dance, music, and drama."
             },
-            "img5":
-            {
-                "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyBzMvEp5l38ajcsXuHkc4wReX1ukm2mbQ&usqp=CAU",
-                "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.hoo111o"
+            "img5": {
+                "src": "5.jpeg",
+                "details": "Event 5: A future dance and music workshop set for December 2024. <br> The workshop aims to teach and promote traditional Indian performing arts among the students."
             }
         }
-
     }
 ]
